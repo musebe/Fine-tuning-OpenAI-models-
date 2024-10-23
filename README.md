@@ -17,7 +17,7 @@ This project uses OpenAI's fine-tuned models to generate custom social media pos
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/cloudinary-post-generator.git
+git clone https://github.com/musebe/Fine-tuning-OpenAI-models-.git
 cd cloudinary-post-generator
 ```
 
